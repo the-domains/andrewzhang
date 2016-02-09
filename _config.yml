@@ -1,0 +1,28 @@
+name: andrewzhang
+favicon: null
+layout_spectrum: 0.601791835622862
+typography_spectrum: 0.7390668813604861
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.0010983068495988846
+  lightness: 0.00257159024477005
+  saturation: 0.842718270374462
+  rhythmicContrast: 0.8844355319160968
+purpose: []
